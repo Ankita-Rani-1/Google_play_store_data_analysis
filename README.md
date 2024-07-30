@@ -1,10 +1,10 @@
-This project analyzes the Google Play Store dataset to provide insights into app ratings, reviews, and installs. The analysis includes calculating average ratings, identifying top-rated apps, and cleaning data for further exploration."
+This project analyzes the Google Play Store dataset to provide insights into app ratings, reviews, and installs. The analysis includes calculating average ratings, identifying top-rated apps, and cleaning data for further exploration."<br>
 
-"The dataset contains information about various apps available on the Google Play Store, including columns like 'App', 'Category', 'Rating', 'Reviews', 'Installs', and 'Type'."
+"The dataset contains information about various apps available on the Google Play Store, including columns like 'App', 'Category', 'Rating', 'Reviews', 'Installs', and 'Type'."<br>
    
-To run this analysis,  Python libraries Pandas and NumPy should be installed using pip: `"pip install pandas numpy."`
-
-This analysis of the Google Play Store dataset provides a comprehensive overview of app ratings, reviews, and installations. Key findings include:
+To run this analysis,  Python libraries Pandas and NumPy should be installed using pip: `"pip install pandas numpy."`<br>
+<br>
+This analysis of the Google Play Store dataset provides a comprehensive overview of app ratings, reviews, and installations. Key findings include:<br>
 
 Average Ratings: The average rating across all apps has been calculated, providing insight into overall app quality on the platform.
 
